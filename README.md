@@ -3,9 +3,6 @@
 - 🌱 I’m currently studying BCA 4th semester
 - 💞️ I’m looking to collaborate on friendly task
 - 📫 How to reach me  
-- FB= Nikil Maharjan
-- Mail=nikilmrz2060@gmail.com
-- Insta=nico_nikx
 
 <!---
 Nikmrz/Nikmrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
