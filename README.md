@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Nikmrz
-- 👀 I’m interested in desgining
-- 🌱 I’m currently studying BCA 4th semester
-- 💞️ I’m looking to collaborate on friendly task
-- 📫 How to reach me  
+-  Hi, I’m @Nikmrz
+-  I’m currently studying BCA 5th semester
+
 
 <!---
 Nikmrz/Nikmrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
