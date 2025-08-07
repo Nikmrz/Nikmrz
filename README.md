@@ -1,5 +1,5 @@
 -  Hi, I’m @Nikmrz
--  I’m currently studying BCA 5th semester
+-  I’m currently studying BCA 7th semester
 
 
 <!---
